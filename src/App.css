@@ -64,7 +64,7 @@ body {
   color: #fec653;
 }
 .content-container {
-  background-color: url('https://assets.ccbp.in/frontend/react-js/match-game-bg.png');
+  background-image: url('https://assets.ccbp.in/frontend/react-js/match-game-bg.png');
   height: 100vh;
   background-size: cover;
   width: 100vw;
